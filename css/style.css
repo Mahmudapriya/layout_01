@@ -1,0 +1,123 @@
+header{
+    background-color: cadetblue;
+    min-height: 100px;
+}
+
+.header_common_style{
+    background-color: aquamarine;
+    min-height: 80px;
+    margin-top: 10px;
+    margin-bottom: 10px; 
+}
+
+
+#hero,#content,footer{
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+.add{
+    background-color: cadetblue;
+    min-height: 200px;
+}
+
+.common_bg{
+    background-color: cadetblue;
+}
+.hero_common_style{
+    background-color: aquamarine;
+    min-height: 150px;
+    margin-top: 25px;
+    margin-bottom: 25px; 
+}
+
+
+.padding-right{
+    padding-right: 0px;
+}
+
+
+.common_content_height{
+    min-height: 500px;
+    
+}
+
+.content_common_style{
+    background-color: aquamarine;
+    min-height: 450px;
+    margin-top: 25px;
+    margin-bottom: 25px; 
+}
+.slide_content {
+    overflow: hidden;
+}
+.slider_feacure{
+    min-height: 450px;
+    background-color: aquamarine;
+   margin: 21px;
+    
+}
+
+
+
+/*
+.main_feacure{
+     background-color: aquamarine;
+    min-height: 150px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.hero_feacure{
+     background-color: aquamarine;
+    min-height: 150px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.body{
+    background-color: cadetblue;
+    min-height: 500px;
+}
+.activity_feacure{
+    background-color: aquamarine;
+    min-height: 450px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.loading_feacure{
+     background-color: aquamarine;
+    min-height: 450px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.slider{
+     background-color: cadetblue;
+    min-height: 500px;
+}
+
+ .slider_feacure{
+    background-color: aquamarine;
+    min-height: 450px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+   
+}
+*/
+footer{
+      background-color: cadetblue;
+    min-height: 150px;
+}
+.footer_section{
+      background-color: aquamarine;
+    min-height: 100px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+
+
+
+
+
